@@ -2,8 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Finds the integer whose square has the form 1_2_3_4_5_6_7_8_9_0, where each
- * "_" is a single digit. Program takes ~15 seconds to complete on an Intel
- * E8400.
+ * "_" is a single digit.
  * 
  * @author derek.steinke
  * 
