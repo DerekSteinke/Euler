@@ -31,7 +31,7 @@ public class P53 {
 	 * 
 	 * @param n n in the equation nCr = n! / r!(n-r)!
 	 * @param r r in the equation nCr = n! / r!(n-r)!
-	 * @return the combinatoric in the notation nCr
+	 * @return the combinatoric given n and r
 	 */
 	public static BigInteger combinatoric(int n, int r) {
 		BigInteger combin = factorial(n).divide(
