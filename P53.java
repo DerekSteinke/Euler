@@ -29,10 +29,8 @@ public class P53 {
 
 	/**
 	 * 
-	 * @param n
-	 *            n in the equation nCr = n! / r!(n-r)!
-	 * @param r
-	 *            r in the equation nCr = n! / r!(n-r)!
+	 * @param n n in the equation nCr = n! / r!(n-r)!
+	 * @param r r in the equation nCr = n! / r!(n-r)!
 	 * @return the combinatoric in the notation nCr
 	 */
 	public static BigInteger combinatoric(int n, int r) {
