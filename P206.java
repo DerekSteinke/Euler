@@ -18,7 +18,6 @@ public class P206 {
 		Long minsqr = new Long("1020304050607080900");
 		Long max = (long) Math.sqrt(maxsqr); //maximum value to check
 		Long min = (long) Math.sqrt(minsqr); //minimum value to check
-		//System.out.println(max + " " + min + " " + (max - min));
 		Long answer = new Long(0);
 		long i = min - 40;
 
