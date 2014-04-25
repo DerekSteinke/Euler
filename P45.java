@@ -10,8 +10,7 @@ public class P45 {
 
 	public static void main(String[] args) {
 		long start = System.nanoTime();
-		int i = 144; // starting at the 144th in the series because H143 is
-						// 40755
+		int i = 144; // starting at the 144th in the series because H143 is 40755
 		while (true) {
 			// because hexagon numbers are a subset of triangle number, only the
 			// pentagon and hexagon numbers need to be compared
