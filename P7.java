@@ -8,7 +8,7 @@ public class P7 {
 
 	public static void main(String[] args) {
 		long start = System.nanoTime();
-		int prime = 0, count = 1;
+		int prime = 0, count = 1; //count set at 1 to include 2 as prime.
 		for(int i = 3; count < 10001; i+= 2){
 			if(isPrime(i)){
 				count++;
