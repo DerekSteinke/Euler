@@ -1,4 +1,4 @@
 Euler
 =====
 
-Java solutions to the problems on projecteuler.net
+Java (and javascript) solutions to the problems on projecteuler.net
